@@ -2,7 +2,11 @@
 
 A bioinformatic analysis pipeline for bulk ATAC-seq
 
+0. Convert bcl files to fastq files
 
+- Files: bcl2fastq.sh
+- Description: 
+  - Uses bcl2fastq module to demultiplex bcl sequencing files for each sample to fastq files
 
 1. FastQC
 
